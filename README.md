@@ -7,7 +7,7 @@
 --------------------------------------------------------------------------------------------
 
 Official implementation of https://arxiv.org/abs/2109.08924 paper.
-This paper was submitted to Optimization for ML workshop (NeurIPS 2021).
+This paper was accepted at ICBINB workshop (NeurIPS 2021).
 
 ## Scripts
 | Notebook                  | Task                           |
